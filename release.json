@@ -1,0 +1,19 @@
+{
+  "version": "2.2",
+  "recorded_release_sha256": "e5c8bf1bd5b5b74e58ffcdce6a010a52b50feaa1606e7a053708d54044c37b7a",
+  "recorded_release_bytes": 87552000,
+  "payload_sha256": "c9d9db4725c56512402721edcdb638420a38ee528b5e6cd199b4d4d9ea4e752d",
+  "icon_sha256": "533a5d01bbd6b10924c6bbb85eb9c2d6dba600fbd9a89c5ffa38d9c74e5cc054",
+  "installer_source_sha256": "3b13a81ec1cb62d99c3a2fa721c7820eb482d6b18662d93069e6cc0ef51547de",
+  "native_manifest_sha256": "107335d6ec53ac9c9ccde67b2ab69f57c124921482be58e944e40a55d4cb0d65",
+  "retained_console_sha256": "73d462c4758e4fee0f3c9a0eb2753bf3c382a4e32062e2e498685bbe15f25687",
+  "payload_builder_inputs": {
+    "original_archive": "34798864ea97a379faaaf6278bfbac6e1ab8ad0b1f67e2396bd535c1d78aa258",
+    "localized_archive": "b73b8b672aa26bf212c121b3a2eeaf7ba28ad2a8c973728893ec766daf7a98a0",
+    "original_exe": "2f6442987a68041b2a3a9d02d97e5a34b35130935b18a5068827ec6d3b66d107",
+    "localized_exe": "2f6442987a68041b2a3a9d02d97e5a34b35130935b18a5068827ec6d3b66d107",
+    "original_movie": "8b60b1319e655c6733e3bf0b4f426543bf13081c2d35197b869807c2d87cf36f",
+    "localized_movie": "bad0843a737bfc8ccdc0a63de984d629bdc400e7c39515c16efd88876f78d676",
+    "artwork": "3e271cc8a0bd2615126cff7d197d88d4d4e049ec7389db83fcede10f25cbf129"
+  }
+}

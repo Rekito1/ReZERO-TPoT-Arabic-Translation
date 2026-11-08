@@ -1,0 +1,8 @@
+# Preserve the exact reviewed v2.2 source bytes across platforms.
+/src/Installer.cs -text
+/src/app.manifest -text
+/tools/FaultTest.cs -text
+*.md text eol=lf
+*.ps1 text eol=lf
+*.py text eol=lf
+*.json text eol=lf

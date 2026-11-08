@@ -1,0 +1,14 @@
+/build/
+/private/
+__pycache__/
+*.exe
+*.dll
+*.ico
+*.zip
+*.delta
+*.cfsi
+*.webm
+*.mo
+*.bft
+*.dds
+*.pdb
